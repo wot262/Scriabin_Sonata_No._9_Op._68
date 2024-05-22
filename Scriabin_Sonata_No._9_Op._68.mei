@@ -20,6 +20,10 @@
                <name xml:id="njkcakk">Verovio</name>
                <p xml:id="p1afmgv6">Transcoded from MusicXML</p>
             </application>
+            <application xml:id="aereq511" enddate="2024-05-22T11:25:19" startdate="2024-05-22T10:47:05" version="1.0.14">
+               <name xml:id="nqepok31">mei-friend</name>
+               <p xml:id="pnt09p6">First edit by mei-friend 1.0.14, 7 May 2024.</p>
+            </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
@@ -36,7 +40,7 @@
                   <staffGrp xml:id="s6umlj8">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="g119e7bt" symbol="brace" />
-                        <label xml:id="l1oux1c5">鋼琴</label>
+                        <label xml:id="l1oux1c5">Piano</label>
                         <labelAbbr xml:id="l11ybb27">Pno.</labelAbbr>
                         <instrDef xml:id="iqd83ka" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                         <staffDef xml:id="skhiwuh" n="1" lines="5" ppq="240">
@@ -102,8 +106,6 @@
                            <mRest xml:id="m13vgmr3" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tb1wp8p" place="above" staff="1" tstamp="1.000000" midi.bpm="36.000000" mm="36.000000" mm.unit="4">
-                        <rend xml:id="r13lt432" glyph.auth="smufl"></rend> = 36</tempo>
                      <dir xml:id="dp2hrfs" place="above" staff="1" tstamp="1.000000" vgrp="2445">
                         <rend xml:id="rmcy73v" fontstyle="italic">legendaire</rend>
                      </dir>
@@ -112,12 +114,6 @@
                      </tempo>
                      <dynam xml:id="d1uyu7kj" place="below" staff="1" tstamp="1.000000" val="54" vgrp="444">pp</dynam>
                      <slur xml:id="sk2ptlf" startid="#n5ri8df" endid="#n1nztbz0" curvedir="below" />
-                     <tempo xml:id="t1kvz849" place="above" staff="1" tstamp="2.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="r71koru" glyph.auth="smufl"></rend> = 38</tempo>
-                     <tempo xml:id="t9orhhw" place="above" staff="1" tstamp="3.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="r12n2lbm" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="te43fqn" place="above" staff="1" tstamp="4.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="ryqekz8" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="mrglj2s" n="2">
                      <staff xml:id="s12n95wq" n="1">
@@ -163,15 +159,9 @@
                            <mRest xml:id="m1bbz8d4" />
                         </layer>
                      </staff>
-                     <tempo xml:id="ttkh5v9" place="above" staff="1" tstamp="1.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="r1wq6vh5" glyph.auth="smufl"></rend> = 38</tempo>
                      <tie xml:id="top1u2w" startid="#n1xnnnp6" endid="#n1nztbz0" />
                      <tie xml:id="tdtn5vt" startid="#n72f71e" endid="#n1ub4fyv" />
                      <slur xml:id="sc2ddbx" startid="#n1iokp" endid="#n14jxq07" curvedir="above" />
-                     <tempo xml:id="t1p0itau" place="above" staff="1" tstamp="2.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="r1k8fdn0" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="tnrph8" place="above" staff="1" tstamp="3.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="r1k0bgh" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="mhcqe0y" n="3">
                      <staff xml:id="sm8aqyk" n="1">
@@ -223,13 +213,7 @@
                            <mRest xml:id="mhcbejj" />
                         </layer>
                      </staff>
-                     <tempo xml:id="t1xs6bs4" place="above" staff="1" tstamp="1.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="ryiyl4z" glyph.auth="smufl"></rend> = 38</tempo>
                      <slur xml:id="s1uk0yp8" startid="#n1nztbz0" endid="#nm7f814" curvedir="below" />
-                     <tempo xml:id="t1oqypxu" place="above" staff="1" tstamp="2.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="rvo0wxp" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="t3d0u6m" place="above" staff="1" tstamp="3.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="r1l193bl" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="mfndf66" n="4">
                      <staff xml:id="snr6ple" n="1">
@@ -276,15 +260,9 @@
                            <mRest xml:id="mtycnef" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tkdfxye" place="above" staff="1" tstamp="1.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="r12hh998" glyph.auth="smufl"></rend> = 38</tempo>
                      <tie xml:id="tvfhmju" startid="#n1ux6a8t" endid="#nm7f814" />
                      <tie xml:id="tyrmgep" startid="#nj63ont" endid="#n159tnob" />
                      <slur xml:id="s19sildn" startid="#ns4c0lj" endid="#n4t6k3t" curvedir="above" />
-                     <tempo xml:id="t17kl0h9" place="above" staff="1" tstamp="2.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="rwz4ll0" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="t1u2zh0c" place="above" staff="1" tstamp="3.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="r15fxf2l" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="m1kg40uf" n="5">
                      <staff xml:id="sef2y2o" n="1">
@@ -359,13 +337,7 @@
                            <rest xml:id="r16xfrzf" dur.ppq="120" dur="8" />
                         </layer>
                      </staff>
-                     <tempo xml:id="t117mfk5" place="above" staff="1" tstamp="1.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="rvfy63c" glyph.auth="smufl"></rend> = 38</tempo>
                      <slur xml:id="s1eel9e4" startid="#nm7f814" endid="#n7i1gf5" curvedir="above" />
-                     <tempo xml:id="t1kc1ido" place="above" staff="1" tstamp="2.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="r1y5xrnu" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="tefdpn6" place="above" staff="1" tstamp="3.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="rzooip3" glyph.auth="smufl"></rend> = 44</tempo>
                      <slur xml:id="s1apu34n" startid="#n9b753i" endid="#n1e237rn" curvedir="below" />
                      <tie xml:id="tj9760a" startid="#n9b753i" endid="#n11aedwe" />
                      <dynam xml:id="d1sn158x" place="below" staff="3" tstamp="1.000000" val="45" vgrp="425">pp</dynam>
@@ -462,20 +434,14 @@
                            <mSpace xml:id="m2fu2rx" />
                         </layer>
                      </staff>
-                     <tempo xml:id="t19bcjc2" place="above" staff="1" tstamp="1.000000" midi.bpm="46.000000" mm="46.000000" mm.unit="4">
-                        <rend xml:id="r1qwzrz1" glyph.auth="smufl"></rend> = 46</tempo>
-                     <tempo xml:id="t1v0u42w" place="above" staff="1" tstamp="3.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="r15lfm94" glyph.auth="smufl"></rend> = 48</tempo>
                      <tie xml:id="t2e1jka" startid="#n1hz3u0f" endid="#nk1g3i3" />
                      <dir xml:id="d838ynb" place="above" staff="2" tstamp="3.000000" tstamp2="1m+3.0000" lform="dashed" extender="true" vgrp="2330">
                         <rend xml:id="r1e3qdwb" fontfam="Edwin" fontstyle="italic">poco cresc.</rend>
                      </dir>
                      <tie xml:id="t1dhcjt" startid="#n1rqk6mf" endid="#n1yxvqen" />
-                     <pedal xml:id="p2sda8" staff="3" tstamp="1.000000" dir="down" form="line" place="below" vgrp="650" />
                      <beamSpan xml:id="b1k1cebb" startid="#n1i7c3da" endid="#njndxsa" />
                      <slur xml:id="snrclhj" startid="#n1i7c3da" endid="#njndxsa" curvedir="below" />
                      <pedal xml:id="p5i3qj5" staff="3" tstamp="1.900000" dir="up" form="line" place="below" vgrp="2000" />
-                     <pedal xml:id="p1i2zhjk" staff="3" tstamp="3.000000" dir="down" form="line" place="below" vgrp="650" />
                      <slur xml:id="sjw5ya3" startid="#n1rc16uj" endid="#nk6jxmv" curvedir="below" />
                      <pedal xml:id="plih5ho" staff="3" tstamp="3.900000" dir="up" form="line" place="below" vgrp="2000" />
                   </measure>
@@ -580,11 +546,6 @@
                            <mSpace xml:id="mx4ier" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tp7fv1q" place="above" staff="1" tstamp="1.000000" midi.bpm="50.000000" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rm2u0vm" glyph.auth="smufl"></rend> = 50</tempo>
-                     <dynam xml:id="dm1x2fn" place="below" staff="1" tstamp="3.000000" val="80" vgrp="525">mf</dynam>
-                     <tempo xml:id="t3i893q" place="above" staff="1" tstamp="3.000000" midi.bpm="52.000000" mm="52.000000" mm.unit="4">
-                        <rend xml:id="r1071l2p" glyph.auth="smufl"></rend> = 52</tempo>
                      <dir xml:id="dejazkw" place="above" staff="2" tstamp="3.000000" vgrp="2505">
                         <rend xml:id="r14m6thq" rend="box" fontstyle="italic">mysterieusement murmuré</rend>
                      </dir>
@@ -595,8 +556,6 @@
                      <pedal xml:id="pwwdz28" staff="3" tstamp="1.900000" dir="up" form="line" place="below" vgrp="2000" />
                      <pedal xml:id="p12fxen1" staff="3" tstamp="3.000000" dir="down" form="line" place="below" vgrp="1000" />
                      <pedal xml:id="p1kkax9q" staff="3" tstamp="4.900000" dir="up" form="line" place="below" vgrp="2000" />
-                     <tempo xml:id="t1c1t4jc" place="above" staff="1" tstamp="4.000000" midi.bpm="50.000000" mm="50.000000" mm.unit="4">
-                        <rend xml:id="rgg1nsb" glyph.auth="smufl"></rend> = 50</tempo>
                   </measure>
                   <measure xml:id="mqux97g" n="8">
                      <staff xml:id="sjs31w3" n="1">
@@ -673,8 +632,6 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="t3arshp" place="above" staff="1" tstamp="1.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="r15m80yt" glyph.auth="smufl"></rend> = 48</tempo>
                      <slur xml:id="s14ft20f" startid="#n1w3yo6s" endid="#n1pyh58f" curvedir="above" />
                      <tie xml:id="t1jt8875" startid="#n1u965d2" endid="#n1pyh58f" />
                      <hairpin xml:id="hqqns0d" staff="2" tstamp="3.000000" tstamp2="0m+4.6667" form="dim" place="below" vgrp="600" />
@@ -682,12 +639,6 @@
                      <slur xml:id="s8252z9" startid="#n1fmrjaq" endid="#n11s8o0a" curvedir="below" />
                      <tie xml:id="t1847ivx" startid="#nvctve3" endid="#n11s8o0a" />
                      <slur xml:id="sfrokao" startid="#n1hnnxed" endid="#ntmu31v" curvedir="below" />
-                     <tempo xml:id="t1tzgara" place="above" staff="1" tstamp="2.000000" midi.bpm="46.000000" mm="46.000000" mm.unit="4">
-                        <rend xml:id="rapznv8" glyph.auth="smufl"></rend> = 46</tempo>
-                     <tempo xml:id="t1sn5x2d" place="above" staff="1" tstamp="3.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="rcj4x4i" glyph.auth="smufl"></rend> = 48</tempo>
-                     <tempo xml:id="t4sxqd2" place="above" staff="1" tstamp="4.000000" midi.bpm="50.000000" mm="50.000000" mm.unit="4">
-                        <rend xml:id="r1pbl34r" glyph.auth="smufl"></rend> = 50</tempo>
                   </measure>
                   <sb xml:id="svh5vaq" />
                   <measure xml:id="m1ses8i" n="9">
@@ -717,7 +668,7 @@
                         </layer>
                         <layer xml:id="l1lj8ho7" n="6">
                            <tuplet xml:id="t1ee3f1z" num="3" numbase="2" bracket.visible="true">
-                              <rest xml:id="r15yprh8" dur.ppq="80" dur="8" ploc="b" oloc="2" />
+                              <rest xml:id="r15yprh8" dur.ppq="80" dur="8" ploc="b" oloc="1" />
                               <note xml:id="n13xiyxw" dur.ppq="40" dur="16" oct="2" pname="g" stem.dir="down" />
                            </tuplet>
                            <beam xml:id="b7r8379">
@@ -786,7 +737,7 @@
                         </layer>
                         <layer xml:id="lc18b18" n="6">
                            <tuplet xml:id="t1a7oczl" num="3" numbase="2" bracket.visible="true">
-                              <rest xml:id="rzpzaty" dur.ppq="40" dur="16" ploc="b" oloc="2" />
+                              <rest xml:id="rzpzaty" dur.ppq="40" dur="16" ploc="b" oloc="1" />
                               <beam xml:id="b1mf7wm">
                                  <note xml:id="ny9arx1" dur.ppq="40" dur="16" oct="2" pname="g" stem.dir="down" />
                                  <note xml:id="n1dcvcjt" dur.ppq="40" dur="16" oct="2" pname="c" stem.dir="down">
@@ -813,25 +764,15 @@
                            <mRest xml:id="mp01nff" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tah4mip" place="above" staff="1" tstamp="1.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="r2temks" glyph.auth="smufl"></rend> = 48</tempo>
                      <tie xml:id="t1ylm9np" startid="#n1a35cxx" endid="#n1ug0bim" />
-                     <tempo xml:id="t6569m7" place="above" staff="1" tstamp="3.000000" midi.bpm="46.000000" mm="46.000000" mm.unit="4">
-                        <rend xml:id="r1cb4dgj" glyph.auth="smufl"></rend> = 46</tempo>
                      <slur xml:id="smzrjdm" startid="#n1f3f16y" endid="#nu1qmit" curvedir="above" />
-                     <tempo xml:id="t4fuqpl" place="above" staff="1" tstamp="4.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
-                        <rend xml:id="r1tk9d0k" glyph.auth="smufl"></rend> = 48</tempo>
-                     <tempo xml:id="t12il3fw" place="above" staff="1" tstamp="4.333333" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="r14uvo07" glyph.auth="smufl"></rend> = 44</tempo>
-                     <tempo xml:id="t10b63se" place="above" staff="1" tstamp="4.666667" midi.bpm="12.000000" mm="12.000000" mm.unit="4">
-                        <rend xml:id="r165ddqn" glyph.auth="smufl"></rend> = 12</tempo>
                      <slur xml:id="sf2za7m" startid="#n1dcvcjt" endid="#ngephdi" curvedir="below" />
                      <tie xml:id="t1fquqbs" startid="#n1dcvcjt" endid="#nst4hwk" />
                      <tie xml:id="tl8mxhg" startid="#nwm8q8p" endid="#ngephdi" />
                      <slur xml:id="s14mgny0" startid="#n1nnatn9" endid="#no1fyvg" curvedir="below" />
                   </measure>
                   <measure xml:id="m9hjmt" n="11">
-                     <staff xml:id="smf6nnn" n="1">
+                     <staff xml:id="smf6nnn" n="1" visible="false">
                         <layer xml:id="llh9v4p" n="1">
                            <beam xml:id="bl9yboq">
                               <chord xml:id="c1kthsl2" dur.ppq="120" dur="8" stem.dir="up">
@@ -874,15 +815,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dit8eld" place="below" staff="1" tstamp="1.000000" val="54" vgrp="444">pp</dynam>
-                     <tempo xml:id="tuy0iz8" place="above" staff="1" tstamp="1.000000" midi.bpm="36.000000" mm="36.000000" mm.unit="4">
-                        <rend xml:id="r1yn91p4" glyph.auth="smufl"></rend> = 36</tempo>
                      <slur xml:id="s1o6pvzv" startid="#n1tqtlhp" endid="#n134mosm" curvedir="below" />
-                     <tempo xml:id="thdx5l2" place="above" staff="1" tstamp="2.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="r462588" glyph.auth="smufl"></rend> = 38</tempo>
-                     <tempo xml:id="t1xmholc" place="above" staff="1" tstamp="3.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="r4kodr8" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="ty7ug7p" place="above" staff="1" tstamp="4.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="rtfp431" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="m1cqzrsj" n="12">
                      <staff xml:id="sudwta8" n="1">
@@ -928,13 +861,7 @@
                            <mRest xml:id="m1si5hdx" />
                         </layer>
                      </staff>
-                     <tempo xml:id="t174gogd" place="above" staff="1" tstamp="1.000000" midi.bpm="38.000000" mm="38.000000" mm.unit="4">
-                        <rend xml:id="rnrg55x" glyph.auth="smufl"></rend> = 38</tempo>
                      <slur xml:id="s1xtpc4n" startid="#n1w7cdm1" endid="#nhrpq0m" curvedir="above" />
-                     <tempo xml:id="thbzkrc" place="above" staff="1" tstamp="2.000000" midi.bpm="41.000000" mm="41.000000" mm.unit="4">
-                        <rend xml:id="rqltuha" glyph.auth="smufl"></rend> = 41</tempo>
-                     <tempo xml:id="tho1c4t" place="above" staff="1" tstamp="3.000000" midi.bpm="44.000000" mm="44.000000" mm.unit="4">
-                        <rend xml:id="r1adkwf6" glyph.auth="smufl"></rend> = 44</tempo>
                   </measure>
                   <measure xml:id="mpu2a0t" n="13">
                      <staff xml:id="s1ba19mu" n="1">
